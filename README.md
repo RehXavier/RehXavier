@@ -1,7 +1,6 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://i.postimg.cc/T3kn8Pd2/octocat-1698280412068.png">
 
-
-### Hi Devs!! Que satisfação você por aqui! 👋
+### Olá Dev!! Que satisfação você por aqui! 👋
 
 
 <h2 align="left">Renara Xavier </h2>
@@ -12,23 +11,21 @@
 - <p>💬 Gosto de conversar sobre tudo, então não tenha receio ao perguntar!</p>
 - <p>⚡ Sou gateira assumida, gosto de arte, música, beber socialmente. Trabalhando incansavelmente para atingir meus objetivos pessoais e profissionais e poder proporcionar uma qualidade de vida melhor para minha familia. </p>
 
+
 ## Estou aprendendo
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
-
-<br>
-</br>
-
-## Fale comigo! 
 <div>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
+</div>
+ 
+## Fale comigo! 
+<div>  
 <a href="https://instagram.com/reh__xavier" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rehxavier100@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renara-xavier-541541225" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+    
 <br>
 </br>
-
-## Estatísticas do Meu Perfil GitHub 
 
 <div>
   <p align="center">
