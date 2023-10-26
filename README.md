@@ -8,7 +8,7 @@
 
 - <p>🔭 Ainda não trabalho como Dev, mas trabalhando para conseguir a minha primeira oportunidade no mercado Front-End. </p>
 - <p>👯 Trabalhar em grupo é ótimo para o desenvolvimento intelectual, então se tá procurando alguém para somar ao seu projeto que tal batermos um papo?</p>
-- <p>🤔 O primeiro passo para se destacar é assumir seus erros, viu algo que devo melhorar ? Não tenho problemas com criticas construtivas... </p>
+- <p>🤔 O primeiro passo para se destacar é assumir seus erros, viu algo que devo melhorar? Não tenho problemas com criticas construtivas... </p>
 - <p>💬 Gosto de conversar sobre tudo, então não tenha receio ao perguntar!</p>
 - <p>⚡ Sou gateira assumida, gosto de arte, música, beber socialmente. Trabalhando incansavelmente para atingir meus objetivos pessoais e profissionais e poder proporcionar uma qualidade de vida melhor para minha familia. </p>
 
