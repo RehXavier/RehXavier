@@ -42,4 +42,3 @@
  
 
 
-![Snake animation](https://github.com/RehXavier/RehXavier/blob/output/github-contribution-grid-snake.svg)
